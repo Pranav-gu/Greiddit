@@ -1,0 +1,74 @@
+.auth_box{
+    position: absolute;
+    top: 8%;
+    font-size: 25px;
+    display: flex;
+    left: 34%;
+    background-color: blue;
+    justify-content: center;
+}
+
+#login_css{
+    width: 300px;
+    background-color: rgb(227, 105, 225);
+}
+
+#login_css:hover{
+    background-color: rgb(241, 121, 161);
+}
+
+#register_css:hover{
+    background-color: rgb(241, 121, 161);
+}
+
+#register_css{
+    width: 300px;
+    background-color: rgb(227, 105, 225);
+}
+
+.navigation_bar{
+    position: relative;
+    top: 10px;
+    text-align: "center";
+    font-Size: "30px";
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    margin: 20px;
+    list-style: none;
+}
+
+#nav_1{
+    color: grey;
+    text-decoration-line: underline;
+}
+
+#nav_1:hover{
+    background-color: rgb(247, 152, 236);
+    text-decoration-line: underline;
+}
+
+#nav_2{
+    color: rgb(133, 10, 221);
+    text-decoration-line: underline;
+}
+
+#nav_2:hover{
+    background-color: rgb(247, 152, 236);
+    text-decoration-line: underline;
+}
+
+
+#nav_3:hover{
+    background-color: rgb(247, 152, 236);
+    text-decoration-line: underline;
+}
+
+#nav_3{
+    color: grey;
+    text-decoration-line: underline;
+}
